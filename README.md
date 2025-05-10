@@ -61,13 +61,13 @@
 
 **학습 유의사항**: 이분 탐색과 정렬을 직접 구현해도 좋지만, std::binary_search, std::lower_bound/std::upper_bound, std::sort 등의 STL을 제대로 익히고 가자.
 
-| 문제 | 링크 |
-|------|------|
-| A – 1920 수 찾기 | [문제 링크](https://www.acmicpc.net/problem/1920) |
-| B – 2750 수 정렬하기 | [문제 링크](https://www.acmicpc.net/problem/2750) |
-| C – 2751 수 정렬하기 2 | [문제 링크](https://www.acmicpc.net/problem/2751) |
-| D – 10989 수 정렬하기 3 | [문제 링크](https://www.acmicpc.net/problem/10989) |
-| E – 10815 숫자 카드 | [문제 링크](https://www.acmicpc.net/problem/10815) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 1920 | A – 수 찾기 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg) | [문제 링크](https://www.acmicpc.net/problem/1920) |
+| 2750 | B – 수 정렬하기 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/4.svg) | [문제 링크](https://www.acmicpc.net/problem/2750) |
+| 2751 | C – 수 정렬하기 2 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg) | [문제 링크](https://www.acmicpc.net/problem/2751) |
+| 10989 | D – 수 정렬하기 3 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/5.svg) | [문제 링크](https://www.acmicpc.net/problem/10989) |
+| 10815 | E – 숫자 카드 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg) | [문제 링크](https://www.acmicpc.net/problem/10815) |
 
 ### 1-2. 기초 자료구조 (1)
 
@@ -75,12 +75,12 @@
 
 **학습 유의사항**: 역시 자료구조를 직접 구현하기보다는 std::stack, std::queue, std::deque, std::list를 활용하는 방향으로 학습해 보자.
 
-| 문제 | 링크 |
-|------|------|
-| A – 10828 스택 | [문제 링크](https://www.acmicpc.net/problem/10828) |
-| B – 10845 큐 | [문제 링크](https://www.acmicpc.net/problem/10845) |
-| C – 10866 덱 | [문제 링크](https://www.acmicpc.net/problem/10866) |
-| D – 1406 에디터 | [문제 링크](https://www.acmicpc.net/problem/1406) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 10828 | A – 스택 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg) | [문제 링크](https://www.acmicpc.net/problem/10828) |
+| 10845 | B – 큐 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg) | [문제 링크](https://www.acmicpc.net/problem/10845) |
+| 10866 | C – 덱 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg) | [문제 링크](https://www.acmicpc.net/problem/10866) |
+| 1406 | D – 에디터 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg) | [문제 링크](https://www.acmicpc.net/problem/1406) |
 
 ### 1-3. 탐색과 정렬 (2)
 
@@ -88,14 +88,14 @@
 
 **학습 유의사항**: std::unique와 std::lower_bound와 std::upper_bound를 함께 활용해 개수를 구하는 테크닉은 매우 자주 등장한다. 또한 std::sort의 비교 함수 지정은 반드시 알아두어야 한다.
 
-| 문제 | 링크 |
-|------|------|
-| A – 1026 보물 | [문제 링크](https://www.acmicpc.net/problem/1026) |
-| B – 1181 단어 정렬 | [문제 링크](https://www.acmicpc.net/problem/1181) |
-| C – 11650 좌표 정렬하기 | [문제 링크](https://www.acmicpc.net/problem/11650) |
-| C* - 11651 좌표 정렬하기 2 | [문제 링크](https://www.acmicpc.net/problem/11651) |
-| D – 10867 중복 빼고 정렬하기 | [문제 링크](https://www.acmicpc.net/problem/10867) |
-| E – 10816 숫자 카드 2 | [문제 링크](https://www.acmicpc.net/problem/10816) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 1026 | A – 보물 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg) | [문제 링크](https://www.acmicpc.net/problem/1026) |
+| 1181 | B – 단어 정렬 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg) | [문제 링크](https://www.acmicpc.net/problem/1181) |
+| 11650 | C – 좌표 정렬하기 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg) | [문제 링크](https://www.acmicpc.net/problem/11650) |
+| 11651 | C* - 좌표 정렬하기 2 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg) | [문제 링크](https://www.acmicpc.net/problem/11651) |
+| 10867 | D – 중복 빼고 정렬하기 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg) | [문제 링크](https://www.acmicpc.net/problem/10867) |
+| 10816 | E – 숫자 카드 2 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg) | [문제 링크](https://www.acmicpc.net/problem/10816) |
 
 ### 1-4. 기초 자료구조 (2)
 
@@ -103,13 +103,13 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A – 9012 괄호 | [문제 링크](https://www.acmicpc.net/problem/9012) |
-| B – 1874 스택 수열 | [문제 링크](https://www.acmicpc.net/problem/1874) |
-| C – 1158 조세퍼스 문제 | [문제 링크](https://www.acmicpc.net/problem/1158) |
-| D – 1966 프린터 큐 | [문제 링크](https://www.acmicpc.net/problem/1966) |
-| E – 5430 AC | [문제 링크](https://www.acmicpc.net/problem/5430) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 9012 | A – 괄호 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg) | [문제 링크](https://www.acmicpc.net/problem/9012) |
+| 1874 | B – 스택 수열 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg) | [문제 링크](https://www.acmicpc.net/problem/1874) |
+| 1158 | C – 조세퍼스 문제 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg) | [문제 링크](https://www.acmicpc.net/problem/1158) |
+| 1966 | D – 프린터 큐 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg) | [문제 링크](https://www.acmicpc.net/problem/1966) |
+| 5430 | E – AC | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | [문제 링크](https://www.acmicpc.net/problem/5430) |
 
 ---
 
@@ -121,12 +121,12 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A – 6603 로또 | [문제 링크](https://www.acmicpc.net/problem/6603) |
-| B – 1182 부분집합의 합 | [문제 링크](https://www.acmicpc.net/problem/1182) |
-| C – 9095 1, 2, 3 더하기 | [문제 링크](https://www.acmicpc.net/problem/9095) |
-| D – 9663 N-Queen | [문제 링크](https://www.acmicpc.net/problem/9663) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 6603 | A – 로또 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg) | [문제 링크](https://www.acmicpc.net/problem/6603) |
+| 1182 | B – 부분집합의 합 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg) | [문제 링크](https://www.acmicpc.net/problem/1182) |
+| 9095 | C – 1, 2, 3 더하기 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg) | [문제 링크](https://www.acmicpc.net/problem/9095) |
+| 9663 | D – N-Queen | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | [문제 링크](https://www.acmicpc.net/problem/9663) |
 
 ### 2-2. 기초 수학 (1)
 
@@ -134,12 +134,12 @@
 
 **학습 유의사항**: 최대한 효율적으로 구현할 수 있는 방법을 생각하며 구현해 보자.
 
-| 문제 | 링크 |
-|------|------|
-| A – 1037 약수 | [문제 링크](https://www.acmicpc.net/problem/1037) |
-| B – 1978 소수 찾기 | [문제 링크](https://www.acmicpc.net/problem/1978) |
-| C – 1929 소수 구하기 | [문제 링크](https://www.acmicpc.net/problem/1929) |
-| D – 2609 최대공약수와 최소공배수 | [문제 링크](https://www.acmicpc.net/problem/2609) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 1037 | A – 약수 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/5.svg) | [문제 링크](https://www.acmicpc.net/problem/1037) |
+| 1978 | B – 소수 찾기 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/4.svg) | [문제 링크](https://www.acmicpc.net/problem/1978) |
+| 1929 | C – 소수 구하기 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg) | [문제 링크](https://www.acmicpc.net/problem/1929) |
+| 2609 | D – 최대공약수와 최소공배수 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/5.svg) | [문제 링크](https://www.acmicpc.net/problem/2609) |
 
 ### 2-3. 백트래킹 (2)
 
@@ -147,12 +147,12 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A – 14889 스타트와 링크 | [문제 링크](https://www.acmicpc.net/problem/14889) |
-| B – 15686 치킨 배달 | [문제 링크](https://www.acmicpc.net/problem/15686) |
-| C – 2661 좋은수열 | [문제 링크](https://www.acmicpc.net/problem/2661) |
-| D – 2580 스도쿠 | [문제 링크](https://www.acmicpc.net/problem/2580) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 14889 | A – 스타트와 링크 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | [문제 링크](https://www.acmicpc.net/problem/14889) |
+| 15686 | B – 치킨 배달 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | [문제 링크](https://www.acmicpc.net/problem/15686) |
+| 2661 | C – 좋은수열 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | [문제 링크](https://www.acmicpc.net/problem/2661) |
+| 2580 | D – 스도쿠 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | [문제 링크](https://www.acmicpc.net/problem/2580) |
 
 ### 2-4. 기초 수학 (2)
 
@@ -160,13 +160,13 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A – 2485 가로수 | [문제 링크](https://www.acmicpc.net/problem/2485) |
-| B – 1644 소수의 연속합 | [문제 링크](https://www.acmicpc.net/problem/1644) |
-| C – 6588 골드바흐의 추측 | [문제 링크](https://www.acmicpc.net/problem/6588) |
-| C* - 15711 환상의 짝꿍 | [문제 링크](https://www.acmicpc.net/problem/15711) |
-| D – 1016 제곱 ㄴㄴ 수 | [문제 링크](https://www.acmicpc.net/problem/1016) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 2485 | A – 가로수 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg) | [문제 링크](https://www.acmicpc.net/problem/2485) |
+| 1644 | B – 소수의 연속합 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg) | [문제 링크](https://www.acmicpc.net/problem/1644) |
+| 6588 | C – 골드바흐의 추측 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | [문제 링크](https://www.acmicpc.net/problem/6588) |
+| 15711 | C* - 환상의 짝꿍 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg) | [문제 링크](https://www.acmicpc.net/problem/15711) |
+| 1016 | D – 제곱 ㄴㄴ 수 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg) | [문제 링크](https://www.acmicpc.net/problem/1016) |
 
 ---
 
@@ -178,13 +178,13 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A – 1260 DFS와 BFS | [문제 링크](https://www.acmicpc.net/problem/1260) |
-| B – 2667 단지번호붙이기 | [문제 링크](https://www.acmicpc.net/problem/2667) |
-| C – 1697 숨바꼭질 | [문제 링크](https://www.acmicpc.net/problem/1697) |
-| D – 2178 미로 탐색 | [문제 링크](https://www.acmicpc.net/problem/2178) |
-| E – 2606 바이러스 | [문제 링크](https://www.acmicpc.net/problem/2606) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 1260 | A – DFS와 BFS | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg) | [문제 링크](https://www.acmicpc.net/problem/1260) |
+| 2667 | B – 단지번호붙이기 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | [문제 링크](https://www.acmicpc.net/problem/2667) |
+| 1697 | C – 숨바꼭질 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | [문제 링크](https://www.acmicpc.net/problem/1697) |
+| 2178 | D – 미로 탐색 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | [문제 링크](https://www.acmicpc.net/problem/2178) |
+| 2606 | E – 바이러스 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg) | [문제 링크](https://www.acmicpc.net/problem/2606) |
 
 ### 3-2. 기초 다이나믹 프로그래밍 (1)
 
@@ -192,13 +192,13 @@
 
 **학습 유의사항**: 다이나믹 프로그래밍은 탑다운 방식과 바텀업 방식이 있다. 특정 문제는 둘 중 한 가지 방법으로만 풀리기도 하니, 둘의 장단점을 비교해서 두 방식으로 모두 문제를 해결할 수 있도록 하자.
 
-| 문제 | 링크 |
-|------|------|
-| A – 1003 피보나치 함수 | [문제 링크](https://www.acmicpc.net/problem/1003) |
-| B – 1463 1로 만들기 | [문제 링크](https://www.acmicpc.net/problem/1463) |
-| C – 2579 계단 오르기 | [문제 링크](https://www.acmicpc.net/problem/2579) |
-| D – 1932 정수 삼각형 | [문제 링크](https://www.acmicpc.net/problem/1932) |
-| E – 1149 RGB거리 | [문제 링크](https://www.acmicpc.net/problem/1149) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 1003 | A – 피보나치 함수 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg) | [문제 링크](https://www.acmicpc.net/problem/1003) |
+| 1463 | B – 1로 만들기 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg) | [문제 링크](https://www.acmicpc.net/problem/1463) |
+| 2579 | C – 계단 오르기 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg) | [문제 링크](https://www.acmicpc.net/problem/2579) |
+| 1932 | D – 정수 삼각형 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | [문제 링크](https://www.acmicpc.net/problem/1932) |
+| 1149 | E – RGB거리 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | [문제 링크](https://www.acmicpc.net/problem/1149) |
 
 ### 3-3. DFS와 BFS (2)
 
@@ -206,14 +206,14 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A – 2206 벽 부수고 이동하기 | [문제 링크](https://www.acmicpc.net/problem/2206) |
-| B – 7576 토마토 | [문제 링크](https://www.acmicpc.net/problem/7576) |
-| B* – 7569 토마토 | [문제 링크](https://www.acmicpc.net/problem/7569) |
-| C – 9466 텀 프로젝트 | [문제 링크](https://www.acmicpc.net/problem/9466) |
-| D – 2636 치즈 | [문제 링크](https://www.acmicpc.net/problem/2636) |
-| E – 2583 영역 구하기 | [문제 링크](https://www.acmicpc.net/problem/2583) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 2206 | A – 벽 부수고 이동하기 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg) | [문제 링크](https://www.acmicpc.net/problem/2206) |
+| 7576 | B – 토마토 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | [문제 링크](https://www.acmicpc.net/problem/7576) |
+| 7569 | B* – 토마토 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | [문제 링크](https://www.acmicpc.net/problem/7569) |
+| 9466 | C – 텀 프로젝트 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg) | [문제 링크](https://www.acmicpc.net/problem/9466) |
+| 2636 | D – 치즈 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | [문제 링크](https://www.acmicpc.net/problem/2636) |
+| 2583 | E – 영역 구하기 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | [문제 링크](https://www.acmicpc.net/problem/2583) |
 
 ### 3-4. 기초 다이나믹 프로그래밍 (2)
 
@@ -221,15 +221,15 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A – 11726 2×n 타일링 | [문제 링크](https://www.acmicpc.net/problem/11726) |
-| A* - 11727 2×n 타일링 2 | [문제 링크](https://www.acmicpc.net/problem/11727) |
-| B – 1912 연속합 | [문제 링크](https://www.acmicpc.net/problem/1912) |
-| C – 2293 동전 | [문제 링크](https://www.acmicpc.net/problem/2293) |
-| D – 2156 포도주 시식 | [문제 링크](https://www.acmicpc.net/problem/2156) |
-| E – 11052 카드 구매하기 | [문제 링크](https://www.acmicpc.net/problem/11052) |
-| F – 11053 가장 긴 증가하는 부분 수열 | [문제 링크](https://www.acmicpc.net/problem/11053) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 11726 | A – 2×n 타일링 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg) | [문제 링크](https://www.acmicpc.net/problem/11726) |
+| 11727 | A* - 2×n 타일링 2 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg) | [문제 링크](https://www.acmicpc.net/problem/11727) |
+| 1912 | B – 연속합 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg) | [문제 링크](https://www.acmicpc.net/problem/1912) |
+| 2293 | C – 동전 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | [문제 링크](https://www.acmicpc.net/problem/2293) |
+| 2156 | D – 포도주 시식 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | [문제 링크](https://www.acmicpc.net/problem/2156) |
+| 11052 | E – 카드 구매하기 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | [문제 링크](https://www.acmicpc.net/problem/11052) |
+| 11053 | F – 가장 긴 증가하는 부분 수열 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg) | [문제 링크](https://www.acmicpc.net/problem/11053) |
 
 ---
 
@@ -241,12 +241,12 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A – 11047 동전 0 | [문제 링크](https://www.acmicpc.net/problem/11047) |
-| B – 1931 회의실배정 | [문제 링크](https://www.acmicpc.net/problem/1931) |
-| C – 2217 로프 | [문제 링크](https://www.acmicpc.net/problem/2217) |
-| D – 2529 부등호 | [문제 링크](https://www.acmicpc.net/problem/2529) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 11047 | A – 동전 0 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg) | [문제 링크](https://www.acmicpc.net/problem/11047) |
+| 1931 | B – 회의실배정 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | [문제 링크](https://www.acmicpc.net/problem/1931) |
+| 2217 | C – 로프 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg) | [문제 링크](https://www.acmicpc.net/problem/2217) |
+| 2529 | D – 부등호 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | [문제 링크](https://www.acmicpc.net/problem/2529) |
 
 ### 4-2. 파라메트릭 서치 (1)
 
@@ -254,13 +254,13 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A – 2805 나무 자르기 | [문제 링크](https://www.acmicpc.net/problem/2805) |
-| B – 1654 랜선 자르기 | [문제 링크](https://www.acmicpc.net/problem/1654) |
-| C – 2869 달팽이는 올라가고 싶다 | [문제 링크](https://www.acmicpc.net/problem/2869) |
-| D – 2512 예산 | [문제 링크](https://www.acmicpc.net/problem/2512) |
-| E – 2110 공유기 설치 | [문제 링크](https://www.acmicpc.net/problem/2110) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 2805 | A – 나무 자르기 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg) | [문제 링크](https://www.acmicpc.net/problem/2805) |
+| 1654 | B – 랜선 자르기 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg) | [문제 링크](https://www.acmicpc.net/problem/1654) |
+| 2869 | C – 달팽이는 올라가고 싶다 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/5.svg) | [문제 링크](https://www.acmicpc.net/problem/2869) |
+| 2512 | D – 예산 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg) | [문제 링크](https://www.acmicpc.net/problem/2512) |
+| 2110 | E – 공유기 설치 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | [문제 링크](https://www.acmicpc.net/problem/2110) |
 
 ### 4-3. 힙
 
@@ -268,13 +268,13 @@
 
 **학습 유의사항**: std::priority_queue에서 최대 힙의 구현체를 제공한다. 우선순위 큐에 연산자를 추가로 넣는 방법을 반드시 알고 가자.
 
-| 문제 | 링크 |
-|------|------|
-| A – 1927 최소 힙 | [문제 링크](https://www.acmicpc.net/problem/1927) |
-| A* - 11279 최대 힙 | [문제 링크](https://www.acmicpc.net/problem/11279) |
-| B – 11286 절댓값 힙 | [문제 링크](https://www.acmicpc.net/problem/11286) |
-| C – 1715 카드 정렬하기 | [문제 링크](https://www.acmicpc.net/problem/1715) |
-| D – 1655 가운데를 말해요 | [문제 링크](https://www.acmicpc.net/problem/1655) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 1927 | A – 최소 힙 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg) | [문제 링크](https://www.acmicpc.net/problem/1927) |
+| 11279 | A* - 최대 힙 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg) | [문제 링크](https://www.acmicpc.net/problem/11279) |
+| 11286 | B – 절댓값 힙 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | [문제 링크](https://www.acmicpc.net/problem/11286) |
+| 1715 | C – 카드 정렬하기 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | [문제 링크](https://www.acmicpc.net/problem/1715) |
+| 1655 | D – 가운데를 말해요 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg) | [문제 링크](https://www.acmicpc.net/problem/1655) |
 
 ### 4-4. 그리디 알고리즘 (2)
 
@@ -282,13 +282,13 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A – 1202 보석 도둑 | [문제 링크](https://www.acmicpc.net/problem/1202) |
-| B – 9576 책 나눠주기 | [문제 링크](https://www.acmicpc.net/problem/9576) |
-| C - 13305 주유소 | [문제 링크](https://www.acmicpc.net/problem/13305) |
-| C* – 1826 연료 채우기 | [문제 링크](https://www.acmicpc.net/problem/1826) |
-| D – 1422 숫자의 신 | [문제 링크](https://www.acmicpc.net/problem/1422) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 1202 | A – 보석 도둑 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg) | [문제 링크](https://www.acmicpc.net/problem/1202) |
+| 9576 | B – 책 나눠주기 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg) | [문제 링크](https://www.acmicpc.net/problem/9576) |
+| 13305 | C - 주유소 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg) | [문제 링크](https://www.acmicpc.net/problem/13305) |
+| 1826 | C* – 연료 채우기 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg) | [문제 링크](https://www.acmicpc.net/problem/1826) |
+| 1422 | D – 숫자의 신 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg) | [문제 링크](https://www.acmicpc.net/problem/1422) |
 
 ---
 
@@ -300,12 +300,12 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A – 1939 중량제한 | [문제 링크](https://www.acmicpc.net/problem/1939) |
-| B – 2585 경비행기 | [문제 링크](https://www.acmicpc.net/problem/2585) |
-| C – 3079 입국심사 | [문제 링크](https://www.acmicpc.net/problem/3079) |
-| D – 3090 차이를 최소로 | [문제 링크](https://www.acmicpc.net/problem/3090) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 1939 | A – 중량제한 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg) | [문제 링크](https://www.acmicpc.net/problem/1939) |
+| 2585 | B – 경비행기 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg) | [문제 링크](https://www.acmicpc.net/problem/2585) |
+| 3079 | C – 입국심사 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | [문제 링크](https://www.acmicpc.net/problem/3079) |
+| 3090 | D – 차이를 최소로 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/19.svg) | [문제 링크](https://www.acmicpc.net/problem/3090) |
 
 ### 5-2. 다이나믹 프로그래밍 (1)
 
@@ -313,14 +313,14 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A – 1890 점프 | [문제 링크](https://www.acmicpc.net/problem/1890) |
-| B – 1520 내리막길 | [문제 링크](https://www.acmicpc.net/problem/1520) |
-| C – 12015 가장 긴 증가하는 부분 수열 2 | [문제 링크](https://www.acmicpc.net/problem/12015) |
-| D – 9251 LCS | [문제 링크](https://www.acmicpc.net/problem/9251) |
-| D* - 9252 LCS 2 | [문제 링크](https://www.acmicpc.net/problem/9252) |
-| E – 11051 이항 계수 2 | [문제 링크](https://www.acmicpc.net/problem/11051) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 1890 | A – 점프 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | [문제 링크](https://www.acmicpc.net/problem/1890) |
+| 1520 | B – 내리막길 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg) | [문제 링크](https://www.acmicpc.net/problem/1520) |
+| 12015 | C – 가장 긴 증가하는 부분 수열 2 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg) | [문제 링크](https://www.acmicpc.net/problem/12015) |
+| 9251 | D – LCS | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | [문제 링크](https://www.acmicpc.net/problem/9251) |
+| 9252 | D* - LCS 2 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | [문제 링크](https://www.acmicpc.net/problem/9252) |
+| 11051 | E – 이항 계수 2 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg) | [문제 링크](https://www.acmicpc.net/problem/11051) |
 
 ### 5-3. 분할 정복 (1)
 
@@ -328,12 +328,12 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A - 1992 쿼드 트리 | [문제 링크](https://www.acmicpc.net/problem/1992) |
-| B – 11729 하노이 탑 이동 순서 | [문제 링크](https://www.acmicpc.net/problem/11729) |
-| C – 10827 a^b | [문제 링크](https://www.acmicpc.net/problem/10827) |
-| D – 2261 가장 가까운 두 점 | [문제 링크](https://www.acmicpc.net/problem/2261) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 1992 | A - 쿼드 트리 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | [문제 링크](https://www.acmicpc.net/problem/1992) |
+| 11729 | B – 하노이 탑 이동 순서 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | [문제 링크](https://www.acmicpc.net/problem/11729) |
+| 10827 | C – a^b | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | [문제 링크](https://www.acmicpc.net/problem/10827) |
+| 2261 | D – 가장 가까운 두 점 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/19.svg) | [문제 링크](https://www.acmicpc.net/problem/2261) |
 
 ### 5-4. 유니온-파인드 트리 (1)
 
@@ -341,12 +341,12 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A – 1717 집합의 표현 | [문제 링크](https://www.acmicpc.net/problem/1717) |
-| B – 4195 친구 네트워크 | [문제 링크](https://www.acmicpc.net/problem/4195) |
-| C – 1976 여행 가자 | [문제 링크](https://www.acmicpc.net/problem/1976) |
-| D – 10775 공항 | [문제 링크](https://www.acmicpc.net/problem/10775) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 1717 | A – 집합의 표현 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | [문제 링크](https://www.acmicpc.net/problem/1717) |
+| 4195 | B – 친구 네트워크 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg) | [문제 링크](https://www.acmicpc.net/problem/4195) |
+| 1976 | C – 여행 가자 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | [문제 링크](https://www.acmicpc.net/problem/1976) |
+| 10775 | D – 공항 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg) | [문제 링크](https://www.acmicpc.net/problem/10775) |
 
 ---
 
@@ -358,14 +358,14 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A – 1753 최단경로 | [문제 링크](https://www.acmicpc.net/problem/1753) |
-| A* - 1916 최소비용 구하기 | [문제 링크](https://www.acmicpc.net/problem/1916) |
-| B – 1238 파티 | [문제 링크](https://www.acmicpc.net/problem/1238) |
-| C – 1261 알고스팟 | [문제 링크](https://www.acmicpc.net/problem/1261) |
-| C* - 4485 녹색 옷 입은 애가 젤다지? | [문제 링크](https://www.acmicpc.net/problem/4485) |
-| D –1504 특정한 최단 경로 | [문제 링크](https://www.acmicpc.net/problem/1504) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 1753 | A – 최단경로 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | [문제 링크](https://www.acmicpc.net/problem/1753) |
+| 1916 | A* - 최소비용 구하기 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | [문제 링크](https://www.acmicpc.net/problem/1916) |
+| 1238 | B – 파티 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg) | [문제 링크](https://www.acmicpc.net/problem/1238) |
+| 1261 | C – 알고스팟 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | [문제 링크](https://www.acmicpc.net/problem/1261) |
+| 4485 | C* - 녹색 옷 입은 애가 젤다지? | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | [문제 링크](https://www.acmicpc.net/problem/4485) |
+| 1504 | D – 특정한 최단 경로 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | [문제 링크](https://www.acmicpc.net/problem/1504) |
 
 ### 6-2. 다이나믹 프로그래밍 (2)
 
@@ -373,12 +373,12 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A – 2618 경찰차 | [문제 링크](https://www.acmicpc.net/problem/2618) |
-| B – 1915 가장 큰 정사각형 | [문제 링크](https://www.acmicpc.net/problem/1915) |
-| C – 11066 파일 합치기 | [문제 링크](https://www.acmicpc.net/problem/11066) |
-| D – 2631 줄세우기 | [문제 링크](https://www.acmicpc.net/problem/2631) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 2618 | A – 경찰차 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg) | [문제 링크](https://www.acmicpc.net/problem/2618) |
+| 1915 | B – 가장 큰 정사각형 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | [문제 링크](https://www.acmicpc.net/problem/1915) |
+| 11066 | C – 파일 합치기 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg) | [문제 링크](https://www.acmicpc.net/problem/11066) |
+| 2631 | D – 줄세우기 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | [문제 링크](https://www.acmicpc.net/problem/2631) |
 
 ### 6-3. 최단 경로 알고리즘 (2)
 
@@ -386,12 +386,12 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A – 11657 타임머신 | [문제 링크](https://www.acmicpc.net/problem/11657) |
-| B – 11404 플로이드 | [문제 링크](https://www.acmicpc.net/problem/11404) |
-| C – 10159 저울 | [문제 링크](https://www.acmicpc.net/problem/10159) |
-| D – 1613 역사 | [문제 링크](https://www.acmicpc.net/problem/1613) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 11657 | A – 타임머신 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | [문제 링크](https://www.acmicpc.net/problem/11657) |
+| 11404 | B – 플로이드 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | [문제 링크](https://www.acmicpc.net/problem/11404) |
+| 10159 | C – 저울 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | [문제 링크](https://www.acmicpc.net/problem/10159) |
+| 1613 | D – 역사 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg) | [문제 링크](https://www.acmicpc.net/problem/1613) |
 
 ### 6-4. 최소 스패닝 트리
 
@@ -399,11 +399,11 @@
 
 **학습 유의사항**: 크루스칼 알고리즘이 프림 알고리즘보다 비교적 자주 쓰인다. 두 알고리즘 모두 MST에 대한 핵심적인 통찰을 담고 있으니 정당성을 생각해 보며 문제를 풀어 보자.
 
-| 문제 | 링크 |
-|------|------|
-| A - 1197 최소 스패닝 트리 | [문제 링크](https://www.acmicpc.net/problem/1197) |
-| B – 1647 도시 분할 계획 | [문제 링크](https://www.acmicpc.net/problem/1647) |
-| C – 2887 행성 터널 | [문제 링크](https://www.acmicpc.net/problem/2887) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 1197 | A - 최소 스패닝 트리 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | [문제 링크](https://www.acmicpc.net/problem/1197) |
+| 1647 | B – 도시 분할 계획 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | [문제 링크](https://www.acmicpc.net/problem/1647) |
+| 2887 | C – 행성 터널 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/16.svg) | [문제 링크](https://www.acmicpc.net/problem/2887) |
 
 ---
 
@@ -415,12 +415,12 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A – 2252 줄 세우기 | [문제 링크](https://www.acmicpc.net/problem/2252) |
-| B – 1005 ACM Craft | [문제 링크](https://www.acmicpc.net/problem/1005) |
-| C – 1766 문제집 | [문제 링크](https://www.acmicpc.net/problem/1766) |
-| D – 3665 최종 순위 | [문제 링크](https://www.acmicpc.net/problem/3665) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 2252 | A – 줄 세우기 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg) | [문제 링크](https://www.acmicpc.net/problem/2252) |
+| 1005 | B – ACM Craft | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg) | [문제 링크](https://www.acmicpc.net/problem/1005) |
+| 1766 | C – 문제집 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg) | [문제 링크](https://www.acmicpc.net/problem/1766) |
+| 3665 | D – 최종 순위 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg) | [문제 링크](https://www.acmicpc.net/problem/3665) |
 
 ### 7-2. 펜윅 트리와 세그먼트 트리 (1)
 
@@ -428,12 +428,12 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A - 2042 구간 합 구하기 | [문제 링크](https://www.acmicpc.net/problem/2042) |
-| B – 2357 최솟값과 최댓값 | [문제 링크](https://www.acmicpc.net/problem/2357) |
-| C – 7578 공장 | [문제 링크](https://www.acmicpc.net/problem/7578) |
-| D – 11505 구간 곱 구하기 | [문제 링크](https://www.acmicpc.net/problem/11505) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 2042 | A - 구간 합 구하기 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg) | [문제 링크](https://www.acmicpc.net/problem/2042) |
+| 2357 | B – 최솟값과 최댓값 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg) | [문제 링크](https://www.acmicpc.net/problem/2357) |
+| 7578 | C – 공장 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/16.svg) | [문제 링크](https://www.acmicpc.net/problem/7578) |
+| 11505 | D – 구간 곱 구하기 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg) | [문제 링크](https://www.acmicpc.net/problem/11505) |
 
 ### 7-3. DFS와 BFS (3)
 
@@ -441,12 +441,12 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A – 1967 트리의 지름 | [문제 링크](https://www.acmicpc.net/problem/1967) |
-| B – 14867 물통 | [문제 링크](https://www.acmicpc.net/problem/14867) |
-| C – 1726 로봇 | [문제 링크](https://www.acmicpc.net/problem/1726) |
-| D – 6087 레이저 통신 | [문제 링크](https://www.acmicpc.net/problem/6087) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 1967 | A – 트리의 지름 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | [문제 링크](https://www.acmicpc.net/problem/1967) |
+| 14867 | B – 물통 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg) | [문제 링크](https://www.acmicpc.net/problem/14867) |
+| 1726 | C – 로봇 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg) | [문제 링크](https://www.acmicpc.net/problem/1726) |
+| 6087 | D – 레이저 통신 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg) | [문제 링크](https://www.acmicpc.net/problem/6087) |
 
 ### 7-4. 펜윅 트리와 세그먼트 트리 (2)
 
@@ -454,13 +454,13 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A – 3653 영화 수집 | [문제 링크](https://www.acmicpc.net/problem/3653) |
-| B – 2243 사탕상자 | [문제 링크](https://www.acmicpc.net/problem/2243) |
-| C – 5676 음주 코딩 | [문제 링크](https://www.acmicpc.net/problem/5676) |
-| D – 1849 순열 | [문제 링크](https://www.acmicpc.net/problem/1849) |
-| E – 2336 굉장한 학생 | [문제 링크](https://www.acmicpc.net/problem/2336) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 3653 | A – 영화 수집 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg) | [문제 링크](https://www.acmicpc.net/problem/3653) |
+| 2243 | B – 사탕상자 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/16.svg) | [문제 링크](https://www.acmicpc.net/problem/2243) |
+| 5676 | C – 음주 코딩 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg) | [문제 링크](https://www.acmicpc.net/problem/5676) |
+| 1849 | D – 순열 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg) | [문제 링크](https://www.acmicpc.net/problem/1849) |
+| 2336 | E – 굉장한 학생 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/19.svg) | [문제 링크](https://www.acmicpc.net/problem/2336) |
 
 ---
 
@@ -472,13 +472,13 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A – 11758 CCW | [문제 링크](https://www.acmicpc.net/problem/11758) |
-| B – 2166 다각형의 면적 | [문제 링크](https://www.acmicpc.net/problem/2166) |
-| C – 3679 단순 다각형 | [문제 링크](https://www.acmicpc.net/problem/3679) |
-| D – 6487 두 직선의 교차 여부 | [문제 링크](https://www.acmicpc.net/problem/6487) |
-| E – 1708 볼록 껍질 | [문제 링크](https://www.acmicpc.net/problem/1708) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 11758 | A – CCW | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | [문제 링크](https://www.acmicpc.net/problem/11758) |
+| 2166 | B – 다각형의 면적 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | [문제 링크](https://www.acmicpc.net/problem/2166) |
+| 3679 | C – 단순 다각형 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg) | [문제 링크](https://www.acmicpc.net/problem/3679) |
+| 6487 | D – 두 직선의 교차 여부 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | [문제 링크](https://www.acmicpc.net/problem/6487) |
+| 1708 | E – 볼록 껍질 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/16.svg) | [문제 링크](https://www.acmicpc.net/problem/1708) |
 
 ### 8-2. 선형 자료구조의 활용
 
@@ -486,12 +486,12 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A – 2493 탑 | [문제 링크](https://www.acmicpc.net/problem/2493) |
-| B – 6198 옥상 정원 꾸미기 | [문제 링크](https://www.acmicpc.net/problem/6198) |
-| C – 6549 히스토그램에서 가장 큰 직사각형 | [문제 링크](https://www.acmicpc.net/problem/6549) |
-| D – 11003 최솟값 찾기 | [문제 링크](https://www.acmicpc.net/problem/11003) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 2493 | A – 탑 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | [문제 링크](https://www.acmicpc.net/problem/2493) |
+| 6198 | B – 옥상 정원 꾸미기 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | [문제 링크](https://www.acmicpc.net/problem/6198) |
+| 6549 | C – 히스토그램에서 가장 큰 직사각형 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/16.svg) | [문제 링크](https://www.acmicpc.net/problem/6549) |
+| 11003 | D – 최솟값 찾기 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/16.svg) | [문제 링크](https://www.acmicpc.net/problem/11003) |
 
 ### 8-3. 문자열 (1)
 
@@ -499,12 +499,12 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A – 1786 찾기 | [문제 링크](https://www.acmicpc.net/problem/1786) |
-| B – 1305 광고 | [문제 링크](https://www.acmicpc.net/problem/1305) |
-| C – 11656 접미사 배열 | [문제 링크](https://www.acmicpc.net/problem/11656) |
-| D – 5052 전화번호 목록 | [문제 링크](https://www.acmicpc.net/problem/5052) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 1786 | A – 찾기 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/16.svg) | [문제 링크](https://www.acmicpc.net/problem/1786) |
+| 1305 | B – 광고 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg) | [문제 링크](https://www.acmicpc.net/problem/1305) |
+| 11656 | C – 접미사 배열 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg) | [문제 링크](https://www.acmicpc.net/problem/11656) |
+| 5052 | D – 전화번호 목록 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | [문제 링크](https://www.acmicpc.net/problem/5052) |
 
 ### 8-4. 다이나믹 프로그래밍 (3)
 
@@ -512,12 +512,12 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A – 2098 외판원 순회 | [문제 링크](https://www.acmicpc.net/problem/2098) |
-| B – 1102 발전소 | [문제 링크](https://www.acmicpc.net/problem/1102) |
-| C – 2718 타일 채우기 | [문제 링크](https://www.acmicpc.net/problem/2718) |
-| D – 1657 두부 장수 장홍준 | [문제 링크](https://www.acmicpc.net/problem/1657) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 2098 | A – 외판원 순회 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg) | [문제 링크](https://www.acmicpc.net/problem/2098) |
+| 1102 | B – 발전소 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/16.svg) | [문제 링크](https://www.acmicpc.net/problem/1102) |
+| 2718 | C – 타일 채우기 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg) | [문제 링크](https://www.acmicpc.net/problem/2718) |
+| 1657 | D – 두부 장수 장홍준 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/18.svg) | [문제 링크](https://www.acmicpc.net/problem/1657) |
 
 ---
 
@@ -529,11 +529,11 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A - 2463 비용 | [문제 링크](https://www.acmicpc.net/problem/2463) |
-| B - 13306 트리 | [문제 링크](https://www.acmicpc.net/problem/13306) |
-| C - 15586 Mootube (Gold) | [문제 링크](https://www.acmicpc.net/problem/15586) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 2463 | A - 비용 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/16.svg) | [문제 링크](https://www.acmicpc.net/problem/2463) |
+| 13306 | B - 트리 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg) | [문제 링크](https://www.acmicpc.net/problem/13306) |
+| 15586 | C - Mootube (Gold) | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg) | [문제 링크](https://www.acmicpc.net/problem/15586) |
 
 ### 9-2. 다이나믹 프로그래밍 (4)
 
@@ -541,12 +541,12 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A – 2449 전구 | [문제 링크](https://www.acmicpc.net/problem/2449) |
-| B – 16157 블로그 | [문제 링크](https://www.acmicpc.net/problem/16157) |
-| C – 2213 트리의 독립집합 | [문제 링크](https://www.acmicpc.net/problem/2213) |
-| D – 2330 기지국 | [문제 링크](https://www.acmicpc.net/problem/2300) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 2449 | A – 전구 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/18.svg) | [문제 링크](https://www.acmicpc.net/problem/2449) |
+| 16157 | B – 블로그 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg) | [문제 링크](https://www.acmicpc.net/problem/16157) |
+| 2213 | C – 트리의 독립집합 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg) | [문제 링크](https://www.acmicpc.net/problem/2213) |
+| 2300 | D – 기지국 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg) | [문제 링크](https://www.acmicpc.net/problem/2300) |
 
 ### 9-3. 세그먼트 트리의 활용 (1)
 
@@ -554,12 +554,12 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A – 10999 구간 합 구하기 2 | [문제 링크](https://www.acmicpc.net/problem/10999) |
-| B – 1395 스위치 | [문제 링크](https://www.acmicpc.net/problem/1395) |
-| C – 12844 XOR | [문제 링크](https://www.acmicpc.net/problem/12844) |
-| D – 2820 자동차 공장 | [문제 링크](https://www.acmicpc.net/problem/2820) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 10999 | A – 구간 합 구하기 2 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg) | [문제 링크](https://www.acmicpc.net/problem/10999) |
+| 1395 | B – 스위치 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/18.svg) | [문제 링크](https://www.acmicpc.net/problem/1395) |
+| 12844 | C – XOR | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/18.svg) | [문제 링크](https://www.acmicpc.net/problem/12844) |
+| 2820 | D – 자동차 공장 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/18.svg) | [문제 링크](https://www.acmicpc.net/problem/2820) |
 
 ### 9-4. DFS 스패닝 트리의 활용 (1)
 
@@ -567,12 +567,12 @@
 
 **학습 유의사항**: 학습량이 많습니다. 타잔과 코사라주의 알고리즘의 차이점을 명확하게 비교하면서 학습합시다.
 
-| 문제 | 링크 |
-|------|------|
-| A – 11266 단절점 | [문제 링크](https://www.acmicpc.net/problem/11266) |
-| B – 11400 단절선 | [문제 링크](https://www.acmicpc.net/problem/11400) |
-| C – 2150 Strongly Connected Component | [문제 링크](https://www.acmicpc.net/problem/2150) |
-| D – 1199 오일러 회로 | [문제 링크](https://www.acmicpc.net/problem/1199) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 11266 | A – 단절점 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg) | [문제 링크](https://www.acmicpc.net/problem/11266) |
+| 11400 | B – 단절선 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg) | [문제 링크](https://www.acmicpc.net/problem/11400) |
+| 2150 | C – Strongly Connected Component | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/16.svg) | [문제 링크](https://www.acmicpc.net/problem/2150) |
+| 1199 | D – 오일러 회로 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg) | [문제 링크](https://www.acmicpc.net/problem/1199) |
 
 ---
 
@@ -584,12 +584,12 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| B - 4181 Convex Hull | [문제 링크](https://www.acmicpc.net/problem/4181) |
-| C – 9240 로버트 후드 | [문제 링크](https://www.acmicpc.net/problem/9240) |
-| D – 13310 먼 별 | [문제 링크](https://www.acmicpc.net/problem/13310) |
-| E – 1688 지민이의 테러 | [문제 링크](https://www.acmicpc.net/problem/1688) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 4181 | B - Convex Hull | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg) | [문제 링크](https://www.acmicpc.net/problem/4181) |
+| 9240 | C – 로버트 후드 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/18.svg) | [문제 링크](https://www.acmicpc.net/problem/9240) |
+| 13310 | D – 먼 별 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/21.svg) | [문제 링크](https://www.acmicpc.net/problem/13310) |
+| 1688 | E – 지민이의 테러 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg) | [문제 링크](https://www.acmicpc.net/problem/1688) |
 
 ### ?-2. 문자열 (2)
 
@@ -597,12 +597,12 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A – 5670 휴대폰 자판 | [문제 링크](https://www.acmicpc.net/problem/5670) |
-| B - 9248 Suffix Array | [문제 링크](https://www.acmicpc.net/problem/9248) |
-| C - 9250 문자열 집합 판별 | [문제 링크](https://www.acmicpc.net/problem/9250) |
-| D – 1701 Cubeditor | [문제 링크](https://www.acmicpc.net/problem/1701) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 5670 | A – 휴대폰 자판 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg) | [문제 링크](https://www.acmicpc.net/problem/5670) |
+| 9248 | B - Suffix Array | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/18.svg) | [문제 링크](https://www.acmicpc.net/problem/9248) |
+| 9250 | C - 문자열 집합 판별 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/19.svg) | [문제 링크](https://www.acmicpc.net/problem/9250) |
+| 1701 | D – Cubeditor | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg) | [문제 링크](https://www.acmicpc.net/problem/1701) |
 
 ### X-1. DFS 스패닝 트리의 활용 (2)
 
@@ -610,11 +610,11 @@
 
 **학습 유의사항**: X
 
-| 문제 | 링크 |
-|------|------|
-| A – 3682 동치 증명 | [문제 링크](https://www.acmicpc.net/problem/3682) |
-| B – 4013 ATM | [문제 링크](https://www.acmicpc.net/problem/4013) |
-| C – 11277 2-SAT – 3 | [문제 링크](https://www.acmicpc.net/problem/11280) |
-| C* - 11281 2-SAT – 4 | [문제 링크](https://www.acmicpc.net/problem/11281) |
-| D – 16367 TV Show Game | [문제 링크](https://www.acmicpc.net/problem/16367) |
+| 문제 번호 | 문제 | 티어 | 링크 |
+|------|------|------|------|
+| 3682 | A – 동치 증명 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/18.svg) | [문제 링크](https://www.acmicpc.net/problem/3682) |
+| 4013 | B – ATM | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/19.svg) | [문제 링크](https://www.acmicpc.net/problem/4013) |
+| 11280 | C – 2-SAT – 3 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/17.svg) | [문제 링크](https://www.acmicpc.net/problem/11280) |
+| 11281 | C* - 2-SAT – 4 | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/18.svg) | [문제 링크](https://www.acmicpc.net/problem/11281) |
+| 16367 | D – TV Show Game | ![Tier](https://d2gd6pc034wcta.cloudfront.net/tier/19.svg) | [문제 링크](https://www.acmicpc.net/problem/16367) |
 
